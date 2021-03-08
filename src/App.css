@@ -1,0 +1,15 @@
+.dpImg{
+    width: 200px;
+    height: 250px;
+}
+
+.cardContainer{
+    width: 300px;
+    margin-top: 3em;
+}
+
+.App{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
